@@ -1,0 +1,5 @@
+gradio
+requests
+transformers
+sentencepiece
+torch>=2.0.0
